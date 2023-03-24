@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+div{
+  color: white;
+	width:200px;
+  background-color: purple;
+ padding:10px;
+/* 	display: inline-block; */
+	border-left:green;
+	border-left:5px;
+  
+ 
+  
+  /* padding: 10px; 10px;10px;10px; */
+
+   ;
+}
+h1{
+	font-size:20px;
+	color:white;
+}
