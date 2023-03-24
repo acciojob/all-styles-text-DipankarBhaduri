@@ -1,23 +1,17 @@
 
 /* Your CSS Code here. */
-
-/* Your CSS Code here. */
-div{
-  color: white;
-	width:200px;
-  background-color: purple;
- padding:10px;
-/* 	display: inline-block; */
-	border-left:green;
-	border-left:5px;
-  
- 
-  
-  /* padding: 10px; 10px;10px;10px; */
-
-   ;
+h2{
+	 border-left-style: solid;
+  border-left-color: coral;
+	  text-decoration: underline;
+	background-color: purple;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+	border-left-width:5px;
+	border-left-color:green;
 }
-h1{
-	font-size:20px;
-	color:white;
+div.h2 {
+  width: 200px;
+  
 }
