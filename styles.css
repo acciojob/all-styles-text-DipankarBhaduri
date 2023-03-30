@@ -1,17 +1,12 @@
 
 /* Your CSS Code here. */
-h2{
-	 border-left-style: solid;
-  border-left-color: coral;
-	  text-decoration: underline;
+.main{
+	width: 200px;
 	background-color: purple;
+	border-left: solid 5px green;
+	padding: 10px;
+}
+#heading{
 	color: white;
 	font-size: 20px;
-	padding: 10px;
-	border-left-width:5px;
-	border-left-color:green;
-}
-div.h2 {
-  width: 200px;
-  
 }
